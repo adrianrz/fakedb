@@ -1,8 +1,9 @@
 {
 "nro_tra" : "12345",
-"linea": {
-   "nombre":"JAVIER RAUL ARNOLETTO",
-   "cuit":"23203980299",
-   "matricula":"P1005",
-   "tipo": "CERTIFICACIÓN DE INGRESOS"
+   "linea": {
+      "nombre":"JAVIER RAUL ARNOLETTO",
+      "cuit":"23203980299",
+      "matricula":"P1005",
+      "tipo": "CERTIFICACIÓN DE INGRESOS"
+   }
 }

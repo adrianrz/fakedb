@@ -1,6 +1,6 @@
 [
    {
-   "nro_tra" : "12345",
+   "id" : "12345",
       "linea": {
          "nombre":"JAVIER RAUL ARNOLETTO",
          "cuit":"23203980299",
